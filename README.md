@@ -33,7 +33,10 @@
   <img src='https://codestats-readme.wegfan.cn/history-graph/sbk6401?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="bernie6401's Code::Stats history graph" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bernie6401&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Other Webpage Stat
+[![My Stack Overflow Stats](https://so-stats.vercel.app/api?user=15036381)](https://github.com/kurt-liao/so-stats)
+
+[![My Medium story](https://medium-story.vercel.app/api?username=@bernie6401&hide=)](https://github.com/kurt-liao/medium-story)
 
 ### Github Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS&show_owner)](https://github.com/anuraghazra/github-readme-stats)
