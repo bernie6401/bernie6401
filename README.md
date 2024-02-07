@@ -39,6 +39,7 @@
 [![My Medium story](https://medium-story.vercel.app/api?username=@bernie6401&hide=)](https://github.com/kurt-liao/medium-story)
 
 ### Github Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=CTF&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS_2023&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=NTU_CNS&show_owner)](https://github.com/anuraghazra/github-readme-stats)
