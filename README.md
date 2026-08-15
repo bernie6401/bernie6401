@@ -107,10 +107,6 @@
 </a>
 </p>
 
-<p align="center">
-<a href="https://stackoverflow.com/users/15036381/sbk6401"><img src="https://img.shields.io/stackexchange/stackoverflow/r/15036381?style=flat&logo=stackoverflow&logoColor=white&label=SO%20reputation" alt="Stack Overflow reputation"/></a>
-</p>
-
 ---
 
 ### 🚩 Security Competitions & Training
