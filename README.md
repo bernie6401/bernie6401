@@ -21,7 +21,7 @@
 - 📄 Published in *Applied Sciences* (2024) on SQL injection test prioritization; second paper on LLM-assisted API discovery under review at IEEE TIFS
 - 🚩 CTF player — finalist at AIS3 EOF 2023/2024 and Cyber Security Competition 2023; ranked in DeadFace CTF, PicoCTF, and TSCCTF
 - 🔍 Focus areas: reverse engineering, malware analysis, and web/DFIR security using IDA Pro, x64dbg, and Burp Suite
-- 📝 I write notes and walkthroughs on [HackMD](https://hackmd.io/@SBK6401)
+- 📝 I write notes and walkthroughs on [Personal Blog Website](https://bernie6401.github.io/)
 - 💬 Ask me about CTF challenges, reverse engineering, or malware analysis
 
 ---
@@ -56,7 +56,7 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/ghidra/ghidra.png" alt="ghidra" width="32" title="Ghidra">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/burp-suite/burp-suite.png" alt="burp suite" width="32" title="Burp Suite">
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="burp suite" height="28" title="Burp Suite">
 </p>
 
 *IDA Pro · x64dbg · Sysinternals Suite · hashcat*
@@ -64,7 +64,7 @@
 ### 🛠️ Systems & Platforms
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="32" title="VS Code">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="32" title="VS Code">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" width="32" title="Ubuntu">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="32" title="Docker">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux" width="32" title="Linux (Ubuntu, RedHat, WSL2)">
@@ -73,7 +73,6 @@
 <img src="https://cdn.pixabay.com/photo/2022/05/03/17/44/zsh-7172337_960_720.png" alt="zsh" width="32" title="Zsh">
 <img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="32" title="Anaconda">
 </p>
-
 *VMware · Git*
 
 ---
@@ -81,8 +80,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bernie6401&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernie6401&layout=compact&theme=highcontrast" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bernie6401&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernie6401&layout=compact&theme=highcontrast" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -96,8 +95,7 @@
 </p>
 
 <p align="center">
-<a href="https://stackoverflow.com/users/15036381/sbk6401"><img src="https://so-stats.vercel.app/api?user=15036381" alt="Stack Overflow Stats"/></a>
-<a href="https://medium.com/@bernie6401"><img src="https://medium-story.vercel.app/api?username=@bernie6401&hide=" alt="Medium Story"/></a>
+<a href="https://stackoverflow.com/users/15036381/sbk6401"><img src="https://img.shields.io/stackexchange/stackoverflow/r/15036381?style=flat&logo=stackoverflow&logoColor=white&label=SO%20reputation" alt="Stack Overflow reputation"/></a>
 </p>
 
 ---
@@ -118,10 +116,10 @@
 ### 📌 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/bernie6401/CTF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=CTF&theme=highcontrast" alt="CTF"/></a>
-<a href="https://github.com/bernie6401/NTU_CS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS&theme=highcontrast" alt="NTU_CS"/></a>
-<a href="https://github.com/bernie6401/NTU_CS_2023"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS_2023&theme=highcontrast" alt="NTU_CS_2023"/></a>
-<a href="https://github.com/bernie6401/NTU_CNS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bernie6401&repo=NTU_CNS&theme=highcontrast" alt="NTU_CNS"/></a>
+<a href="https://github.com/bernie6401/CTF"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=CTF&theme=highcontrast" alt="CTF"/></a>
+<a href="https://github.com/bernie6401/NTU_CS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS&theme=highcontrast" alt="NTU_CS"/></a>
+<a href="https://github.com/bernie6401/NTU_CS_2023"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS_2023&theme=highcontrast" alt="NTU_CS_2023"/></a>
+<a href="https://github.com/bernie6401/NTU_CNS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=NTU_CNS&theme=highcontrast" alt="NTU_CNS"/></a>
 </p>
 
 ---
