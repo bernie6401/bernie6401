@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="90px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Github Readme Stats" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ping-Hsueh%20Ho%20(Bernie)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Reverse%20Engineering%20%7C%20Penetration%20Testing&descAlignY=58&descSize=18" alt="Hi, I'm Ping-Hsueh Ho (Bernie / sbk6401) — Cybersecurity, Reverse Engineering, Penetration Testing" />
 
-# Hi, I'm Ping-Hsueh Ho (Bernie / sbk6401) 👋
-
-**M.S. in Electrical Engineering (Cybersecurity) @ [National Taiwan University](https://www.ntu.edu.tw)** · Reverse Engineering · Malware Analysis · Web Security
+<a href="https://github.com/bernie6401">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=M.S.+in+EE+(Cybersecurity)+%40+National+Taiwan+University;Penetration+Tester+%40+CHT+Security;Reverse+Engineering+%C2%B7+Malware+Analysis+%C2%B7+Web+Security" alt="Typing SVG" />
+</a>
 
 📍 Taichung, Taiwan · 🌐 [bernie6401.github.io](https://bernie6401.github.io) · ✉️ bernie6401@gmail.com
 
@@ -89,8 +89,17 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bernie6401&theme=highcontrast" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bernie6401&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
+
+<p align="center">
+<img src="https://github-profile-trophy-eight.vercel.app/?username=bernie6401&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=bernie6401&theme=highcontrast&layout=compact" alt="WakaTime Stats" />
+</p>
+<p align="center"><sub>WakaTime card needs a <a href="https://wakatime.com">WakaTime</a> account linked to this username to populate — otherwise it renders empty.</sub></p>
 
 <p align="center">
 <a href="https://codestats.net/users/sbk6401">
