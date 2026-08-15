@@ -103,7 +103,7 @@
 
 <p align="center">
 <a href="https://codestats.net/users/sbk6401">
-  <img src="https://codestats-readme.wegfan.cn/history-graph/sbk6401?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=%5B%223e4053%22%2C%22f15854%22%2C%225da5da%22%2C%22faa43a%22%2C%2260bd68%22%2C%22f17cb0%22%2C%22b2912f%22%2C%22decf3f%22%2C%22b276b2%22%2C%22808080%22%5D" alt="bernie6401's Code::Stats history graph" />
+  <img src="https://codestats-readme.wegfan.cn/history-graph/sbk6401?width=850&height=300&timezone=08:00&history_days=30&max_languages=9&language_colors=%5B%223e4053%22%2C%22f15854%22%2C%225da5da%22%2C%22faa43a%22%2C%2260bd68%22%2C%22f17cb0%22%2C%22b2912f%22%2C%22decf3f%22%2C%22b276b2%22%2C%22808080%22%5D" alt="bernie6401's Code::Stats history graph" />
 </a>
 </p>
 
