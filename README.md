@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=bernie6401&theme=highcontrast&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=51ba5d09-bf88-4a5c-b53f-457e58eee5cd&theme=highcontrast&layout=compact" alt="WakaTime Stats" />
 </p>
 <p align="center"><sub>WakaTime card needs a <a href="https://wakatime.com">WakaTime</a> account linked to this username to populate — otherwise it renders empty.</sub></p>
 
