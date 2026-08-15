@@ -17,6 +17,7 @@
 ### 🧭 About Me
 
 - 🎓 M.S. student in Electrical Engineering (Cybersecurity) at NTU, GPA 3.87/4.3 — concentrations in Computer Security, Machine Learning, and Malware Reverse Engineering
+- 🕵️ Currently a Penetration Tester @ CHT Security — conducting security assessments and penetration tests for enterprise clients
 - 🛡️ Former IT Security Engineer Intern @ National Taiwan University Hospital — built firewall/threat-intel automation and a GPU-accelerated credential auditing pipeline
 - 📄 Published in *Applied Sciences* (2024) on SQL injection test prioritization; second paper on LLM-assisted API discovery under review at IEEE TIFS
 - 🚩 CTF player — finalist at AIS3 EOF 2023/2024 and Cyber Security Competition 2023; ranked in DeadFace CTF, PicoCTF, and TSCCTF
@@ -27,6 +28,9 @@
 ---
 
 ### 💼 Experience & Publications
+
+**Penetration Tester**, CHT Security — Jul 2026 – Present
+- Perform penetration tests and security assessments for enterprise and government clients
 
 **IT Security Engineer (Intern)**, National Taiwan University Hospital — Dec 2023 – Jun 2024
 - Built and maintained a firewall management system integrating external threat intelligence feeds for automated IP filtering
@@ -116,7 +120,7 @@
 ### 📌 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/bernie6401/CTF"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=CTF&theme=highcontrast" alt="CTF"/></a>
+<a href="https://github.com/bernie6401/Security-Tools"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=Security-Tools&theme=highcontrast" alt="CTF"/></a>
 <a href="https://github.com/bernie6401/NTU_CS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS&theme=highcontrast" alt="NTU_CS"/></a>
 <a href="https://github.com/bernie6401/NTU_CS_2023"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=NTU_CS_2023&theme=highcontrast" alt="NTU_CS_2023"/></a>
 <a href="https://github.com/bernie6401/NTU_CNS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bernie6401&repo=NTU_CNS&theme=highcontrast" alt="NTU_CNS"/></a>
